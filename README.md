@@ -20,6 +20,7 @@ Open command-line and enter npm install
 
 # Usage 
 Enter node index.js in the terminal to run the application.
+![demo](/assets/demo.mov 'demo')
 
 # License 
 Boost license selected! 
