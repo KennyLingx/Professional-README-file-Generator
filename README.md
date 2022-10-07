@@ -20,7 +20,8 @@ Open command-line and enter npm install
 
 # Usage 
 Enter node index.js in the terminal to run the application.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L_7EKykfgqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![demo](https://img.youtube.com/vi/L_7EKykfgqg/0.jpg)](https://www.youtube.com/watch?L_7EKykfgqg)
+
 
 # License 
 Boost license selected! 
