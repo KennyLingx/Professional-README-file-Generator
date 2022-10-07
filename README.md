@@ -20,7 +20,7 @@ Open command-line and enter npm install
 
 # Usage 
 Enter node index.js in the terminal to run the application.
-<iframe src="https://drive.google.com/file/d/1nE7GvdfzntzAf1Qdl4N5a-3qQ_ADng8u/preview" width="640" height="480"></iframe>
+
 # License 
 Boost license selected! 
           Boost license link:    [Boost Software License 1.0](https://https://opensource.org/licenses/BSL-1.0)
