@@ -20,6 +20,7 @@ Open command-line and enter npm install
 
 # Usage 
 Enter node index.js in the terminal to run the application.
+<br />
 [![demo](https://img.youtube.com/vi/L_7EKykfgqg/0.jpg)](https://www.youtube.com/watch?L_7EKykfgqg)
 
 
